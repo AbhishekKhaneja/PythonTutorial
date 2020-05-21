@@ -1,0 +1,68 @@
+2020-04-25 12:10:35,226 :DEBUG : PytestPackage.test_logging :A debug statement is executed
+2020-04-25 12:10:35,226 :INFO : PytestPackage.test_logging :Information Statement
+2020-04-25 12:10:35,226 :WARNING : PytestPackage.test_logging :Something is in warning mode
+2020-04-25 12:10:35,227 :ERROR : PytestPackage.test_logging :A error has occured
+2020-04-25 12:10:35,227 :CRITICAL : PytestPackage.test_logging :A critical issue is reported
+2020-04-25 12:46:37,787 :DEBUG : PytestPackage.Baseloggerclass :A debug statement is executed
+2020-04-25 12:46:37,787 :INFO : PytestPackage.Baseloggerclass :Information Statement
+2020-04-25 12:46:37,787 :WARNING : PytestPackage.Baseloggerclass :Something is in warning mode
+2020-04-25 12:46:37,787 :ERROR : PytestPackage.Baseloggerclass :A error has occured
+2020-04-25 12:46:37,789 :CRITICAL : PytestPackage.Baseloggerclass :A critical issue is reported
+2020-04-25 12:46:37,789 :INFO : PytestPackage.Baseloggerclass :Rahul
+2020-04-25 12:46:37,789 :INFO : PytestPackage.Baseloggerclass :Shetty
+2020-04-25 12:46:37,789 :INFO : PytestPackage.Baseloggerclass :rahulshettyacademy@gmail.com
+2020-04-25 12:47:39,060 :DEBUG : PytestPackage.Baseloggerclass :A debug statement is executed
+2020-04-25 12:47:39,060 :INFO : PytestPackage.Baseloggerclass :Information Statement
+2020-04-25 12:47:39,060 :WARNING : PytestPackage.Baseloggerclass :Something is in warning mode
+2020-04-25 12:47:39,061 :ERROR : PytestPackage.Baseloggerclass :A error has occured
+2020-04-25 12:47:39,061 :CRITICAL : PytestPackage.Baseloggerclass :A critical issue is reported
+2020-04-25 12:47:39,061 :INFO : PytestPackage.Baseloggerclass :Rahul
+2020-04-25 12:47:39,061 :INFO : PytestPackage.Baseloggerclass :Shetty
+2020-04-25 12:47:39,061 :INFO : PytestPackage.Baseloggerclass :rahulshettyacademy@gmail.com
+2020-04-25 12:47:39,065 :DEBUG : PytestPackage.test_logging :A debug statement is executed
+2020-04-25 12:47:39,065 :INFO : PytestPackage.test_logging :Information Statement
+2020-04-25 12:47:39,065 :WARNING : PytestPackage.test_logging :Something is in warning mode
+2020-04-25 12:47:39,065 :ERROR : PytestPackage.test_logging :A error has occured
+2020-04-25 12:47:39,066 :CRITICAL : PytestPackage.test_logging :A critical issue is reported
+2020-04-25 12:49:26,636 :DEBUG : PytestPackage.Baseloggerclass :A debug statement is executed
+2020-04-25 12:49:26,636 :INFO : PytestPackage.Baseloggerclass :Information Statement
+2020-04-25 12:49:26,636 :WARNING : PytestPackage.Baseloggerclass :Something is in warning mode
+2020-04-25 12:49:26,637 :ERROR : PytestPackage.Baseloggerclass :A error has occured
+2020-04-25 12:49:26,637 :CRITICAL : PytestPackage.Baseloggerclass :A critical issue is reported
+2020-04-25 12:49:26,637 :INFO : PytestPackage.Baseloggerclass :Rahul
+2020-04-25 12:49:26,637 :INFO : PytestPackage.Baseloggerclass :Shetty
+2020-04-25 12:49:26,637 :INFO : PytestPackage.Baseloggerclass :rahulshettyacademy@gmail.com
+2020-04-25 12:54:13,145 :DEBUG : test_profile1 :A debug statement is executed
+2020-04-25 12:54:13,145 :INFO : test_profile1 :Information Statement
+2020-04-25 12:54:13,145 :WARNING : test_profile1 :Something is in warning mode
+2020-04-25 12:54:13,146 :ERROR : test_profile1 :A error has occured
+2020-04-25 12:54:13,146 :CRITICAL : test_profile1 :A critical issue is reported
+2020-04-25 12:54:13,146 :INFO : test_profile1 :Rahul
+2020-04-25 12:54:13,146 :INFO : test_profile1 :Shetty
+2020-04-25 12:54:13,146 :INFO : test_profile1 :rahulshettyacademy@gmail.com
+2020-04-25 12:54:13,154 :DEBUG : PytestPackage.test_logging :A debug statement is executed
+2020-04-25 12:54:13,154 :INFO : PytestPackage.test_logging :Information Statement
+2020-04-25 12:54:13,155 :WARNING : PytestPackage.test_logging :Something is in warning mode
+2020-04-25 12:54:13,155 :ERROR : PytestPackage.test_logging :A error has occured
+2020-04-25 12:54:13,155 :CRITICAL : PytestPackage.test_logging :A critical issue is reported
+2020-04-25 12:55:38,317 :DEBUG : test_profile1 :A debug statement is executed
+2020-04-25 12:55:38,318 :INFO : test_profile1 :Information Statement
+2020-04-25 12:55:38,318 :WARNING : test_profile1 :Something is in warning mode
+2020-04-25 12:55:38,319 :ERROR : test_profile1 :A error has occured
+2020-04-25 12:55:38,319 :CRITICAL : test_profile1 :A critical issue is reported
+2020-04-25 12:55:38,319 :INFO : test_profile1 :Rahul
+2020-04-25 12:55:38,320 :INFO : test_profile1 :Shetty
+2020-04-25 12:55:38,320 :INFO : test_profile1 :rahulshettyacademy@gmail.com
+2020-04-28 23:33:04,733 :DEBUG : test_profile1 :A debug statement is executed
+2020-04-28 23:33:04,737 :INFO : test_profile1 :Information Statement
+2020-04-28 23:33:04,737 :WARNING : test_profile1 :Something is in warning mode
+2020-04-28 23:33:04,737 :ERROR : test_profile1 :A error has occured
+2020-04-28 23:33:04,737 :CRITICAL : test_profile1 :A critical issue is reported
+2020-04-28 23:33:04,738 :INFO : test_profile1 :Rahul
+2020-04-28 23:33:04,738 :INFO : test_profile1 :Shetty
+2020-04-28 23:33:04,738 :INFO : test_profile1 :rahulshettyacademy@gmail.com
+2020-04-28 23:33:04,747 :DEBUG : PytestPackage.test_logging :A debug statement is executed
+2020-04-28 23:33:04,748 :INFO : PytestPackage.test_logging :Information Statement
+2020-04-28 23:33:04,748 :WARNING : PytestPackage.test_logging :Something is in warning mode
+2020-04-28 23:33:04,748 :ERROR : PytestPackage.test_logging :A error has occured
+2020-04-28 23:33:04,749 :CRITICAL : PytestPackage.test_logging :A critical issue is reported
